@@ -49,3 +49,8 @@ struct Node* node_insert_end(struct Node* head,int data) {
     return head;
     
 }
+
+struct abc {
+    int a;
+    float xy;
+}
